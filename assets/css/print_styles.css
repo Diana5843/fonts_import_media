@@ -1,0 +1,17 @@
+@media all and (max-width:350px){
+  header{
+    font-size: 2rem;
+  }
+}
+
+@media all and (max-width:350px){
+  ul{
+    display: block;
+  }
+}
+
+@media print{
+  header{
+    border-bottom: 5px solid red;
+  }
+}

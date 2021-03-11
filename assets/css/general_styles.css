@@ -1,0 +1,21 @@
+@import "./fonts.css" all;
+@import "./print_styles.css" screen;
+
+:root {
+  font-size: 20px;
+}
+
+header {
+  font-size: 4rem;
+  margin-bottom: 30px;
+}
+
+
+ul{
+  font-family: "Roboto";
+  font-size: 2rem;
+  font-style: italic;
+  
+}
+
+

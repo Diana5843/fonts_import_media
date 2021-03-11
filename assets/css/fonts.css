@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(./Roboto/Roboto-Medium.ttf) format(truetype);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(./Roboto/Roboto-BlackItalic.ttf) format(truetype);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(./Roboto/Roboto-BlackItalic.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Akaya";
+  src: url(./Akaya/AkayaTelivigala-Regular.ttf) format(truetype);
+}
+@font-face {
+  font-family: "Akaya";
+  src: url(./Akaya/AkayaTelivigala-Regular.ttf) format(truetype);
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Redressed";
+  src: url(./Redressed/Redressed-Regular.ttf) format(truetype);
+  font-weight: 900;
+}
